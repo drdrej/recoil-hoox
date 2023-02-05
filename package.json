@@ -1,0 +1,23 @@
+{
+  "name": "recoil-hoox",
+  "version": "1.0.0",
+  "description": "some recoil hooks to use in nextjs in combination with ssr ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drdrej/recoil-hoox.git"
+  },
+  "keywords": [
+    "recoil",
+    "hooks"
+  ],
+  "author": "drdrej",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drdrej/recoil-hoox/issues"
+  },
+  "homepage": "https://github.com/drdrej/recoil-hoox#readme"
+}
